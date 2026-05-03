@@ -1,7 +1,7 @@
 {
   "name": "flaremail",
   "type": "module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cloudflare Email Service SDK with a familiar emails.send API",
   "repository": {
     "type": "git",
