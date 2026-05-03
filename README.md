@@ -64,7 +64,7 @@ Cloudflare's REST endpoint requires an account ID. Pass it with `accountId`, set
 
 ```ts
 const email = new Email(process.env.CLOUDFLARE_API_TOKEN, {
-  accountId: 'a3bad09d467f7e00ca2f879e28ecb620',
+  accountId: '<cloudflare-account-id>',
 })
 ```
 
